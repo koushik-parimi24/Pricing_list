@@ -255,7 +255,7 @@ body {
 }
 
 @media(max-width:900px) {
-    h1 {
+    header {
         display: none;
     }
 }
